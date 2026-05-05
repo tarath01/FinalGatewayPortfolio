@@ -1,13 +1,13 @@
-# Developer Portfolio: Gateway
+# :desktop_computer: Developer Portfolio: Gateway
 
 ------------
-<b>Author</b>: Taylor Rath <br>
-<b>Course</b>: CSC465 Advanced Web Development
+<center><b>Author</b>: Taylor Rath <br>
+<b>Course</b>: CSC465 Advanced Web Development 
 
-Welcome to my GitHub Portfolio repository! I am currently 
-studying Computer Information Systems at Wayne State College. This
+Welcome to my GitHub Portfolio repository! <br>
+I am currently studying Computer Information Systems at Wayne State College. This
 gateway serves as a central directory to navigate my
-coursework.
+coursework. </center>
 
 ## :card_index_dividers:Table of Contents
 
@@ -33,6 +33,8 @@ and a rating from 1-10 that you wish to give the movie.
 
 <b>Technologies Used</b>:
   - Javascript
+  - CSS
+  - HTML
 
 <b>Key Learning Concepts</b>:
   - Working with Arrays
@@ -40,19 +42,20 @@ and a rating from 1-10 that you wish to give the movie.
   - How to work with Modules: Import / Export
   - Auto-Generated Unique ID, Title, Genre, & Rating
 
-<b>Project Status</b>: :heavy_check_mark: Completed 
-
+<b>Project Status</b>: :heavy_check_mark: Completed<br>
 <b>Course / Self-Project</b>: CSC465 Advance Web Development
 
-[Media Tracker](https://github.com/tarath01/Media-Tracker)
+<img src="images/media.png" alt="media" height="200" width="400">
 
-[Back to TOC](#card_index_dividerstable-of-contents)
+<b>Repository Link</b>: [Media Tracker](https://github.com/tarath01/Media-Tracker)
+
+<b>[Back to TOC](#card_index_dividerstable-of-contents)</b>
 
 -------
 
 ## RPT3000
 
-<b>Short Summary</b>: This program is a COBOT based reporting designed to analyze and summarize
+<b>Short Summary</b>: This program is a COBOL based reporting designed to analyze and summarize
 yearly sales performances across multiple tiers.
 
 <b>Technologies Used</b>:
@@ -67,7 +70,9 @@ yearly sales performances across multiple tiers.
 
 <b>Course / Self-Project</b>: CIS352 Intro to Enterprise Computing
 
-[RPT3000](https://github.com/tarath01/RPT3000)
+<img src="images/Picture1.png" alt="picture" height="200" width="200">
+
+<b>Repository Link</b>: [RPT3000](https://github.com/tarath01/RPT3000)
 
 [Back to TOC](#card_index_dividerstable-of-contents)
 
@@ -75,21 +80,23 @@ yearly sales performances across multiple tiers.
 
 ## Rockfest
 
-<b>Short Summary</b>: Website Development to provide information to users
-about previous artists performances.
-
+<b>Short Summary</b>: This website was developed to provide information to users
+about previous artist's performances.
+<br>
 <b>Technologies Used</b>: 
   - HTML
   - CSS
 
-<b> Key Learning Concepts</b>:
-  - Hello
-<br>
-<b> Project Status</b>: :heavy_check_mark: Completed
-<br>
+<b>Key Learning Concepts</b>:
+  - Drop-Down List
+  - CSS
+
+<b>Project Status</b>: :heavy_check_mark: Completed <br>
 <b>Course / Self-Project</b>: CSC165 Intro to Web Development
 
-[Rockfest](https://github.com/tarath01/Rockfest)
+<img src="images/rockfest.output.png" alt="2011 header" height="200" width="200">
+
+<b>Repository Link</b>: [Rockfest](https://github.com/tarath01/Rockfest)
 
 [Back to TOC](#card_index_dividerstable-of-contents)
 
@@ -97,20 +104,24 @@ about previous artists performances.
 
 ## Budget Planner
 
-<b>Short Summary</b>:
+<b>Short Summary</b>: Designing a Python budget planner program.
 
 <b>Technologies Used</b>: 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="25"/>
-<br>
+  - Python
 
 <b>Key Concepts Learned</b>:
-  - h
+  - Function Modularity
+  - User Input Validation
+  - Data Structure
+  - Algorithmic Logic
 
-<b>Project Status</b>: :heavy_check_mark: Completed 
-
+<b>Project Status</b>: :heavy_check_mark: Completed
+<br>
 <b>Course / Self-Project</b>: CIS442 Programming Design & Document
+<br>
+<img src="images/budget.png" alt="budget" width="200" height="200">
 
-[Budget Planner](https://github.com/tarath01/BudgetPlanner)
+<b>Repository Link</b>: [Budget Planner](https://github.com/tarath01/BudgetPlanner)
 
 [Back to TOC](#card_index_dividerstable-of-contents)
 
