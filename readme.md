@@ -1,13 +1,13 @@
 # :desktop_computer: Developer Portfolio: Gateway
 
 ------------
-<center><b>Author</b>: Taylor Rath <br>
+<b>Author</b>: Taylor Rath <br>
 <b>Course</b>: CSC465 Advanced Web Development 
 
 Welcome to my GitHub Portfolio repository! <br>
 I am currently studying Computer Information Systems at Wayne State College. This
 gateway serves as a central directory to navigate my
-coursework. </center>
+coursework.
 
 ## :card_index_dividers:Table of Contents
 
